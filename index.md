@@ -1,12 +1,19 @@
 # My personal space
 
+I am a young bold engineer eagerly of new challenges. My curiosity and desire to grow define me. Always learning. Always moving.
+
+With a Grade in IT and a Masters in AI, a long research career and high recognition and ratings during my university years, I am always looking for a new challenge and to overcome my own limits.
+I like every cutting edge field (i.e. AI, Quantum Computing, Bioinformatics) where I am free to innovate and solve new and daring problems.
+
+I would define myself as a really fast learner that has demonstrated to be valuable in very varied fields, and I would love to keep learning. Very friendly person, responsible, serious when required, but with a great sense of humor. I also like sports of any kind and I love healthy competition.
+
 ## My links
 
 |                                 | Web site      | Link                                                                 |
 |---------------------------------|---------------|----------------------------------------------------------------------|
 | ![GMail](icons/gmail.ico)       | **GMail**:    | [javier.paris.u@gmail.com](javier.paris.u@gmail.com)                 |
 | ![GitHub](icons/github.ico)     | **GitHub**:   | [jparisu](https://github.com/jparisu)                                |
-| ![GitLab](icons/gitlab.ico)     | **GitLab**:   | [jparisu](https://github.com/jparisu)                                |
+| ![GitLab](icons/gitlab.ico)     | **GitLab**:   | [jparisu](https://gitlab.com/jparisu)                                |
 | ![LinkedIn](icons/linkedin.ico) | **LinkedIn**: | [javier-paris-uhryn](https://www.linkedin.com/in/javier-paris-uhryn) |                 
 
 ## My Publicated Works
