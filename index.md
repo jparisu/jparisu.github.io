@@ -2,7 +2,7 @@
 
 ## My links
 
-|                                 |               |                                                                      |
+|                                 | Web site      | Link                                                                 |
 |---------------------------------|---------------|----------------------------------------------------------------------|
 | ![GMail](icons/gmail.ico)       | **GMail**:    | [javier.paris.u@gmail.com](javier.paris.u@gmail.com)                 |
 | ![GitHub](icons/github.ico)     | **GitHub**:   | [jparisu](https://github.com/jparisu)                                |
@@ -19,11 +19,11 @@ Nevertheless the math and code could be followed easily without Spanish knowledg
 
 This extense work collects a whole introduction and elemetal knowledge for Quantum Computing and an implementation of a innovative algorithm to create Quantum Circuits available to run in the IBM-QuantumComputer using complex mathematics theorems and Qiskit IBM python library.
 
-|                       |                                                                  |
-|-----------------------|------------------------------------------------------------------|
-| **Memory**:           | [Memory](documents/tfg/TFG_memory.pdf)                           |
-| **Presentation**:     | [Presentation](documents/tfg/TFG_presentation.pdf)               |
-| **Publication link**: | [UAM repository](https://repositorio.uam.es/handle/10486/688422) |                 
+| Document              | Link                                                             | Description |
+|-----------------------|------------------------------------------------------------------|-|
+| **Memory**:           | [Memory](documents/tfg/TFG_memory.pdf)                           | Presented in UAM 06/2018 |
+| **Presentation**:     | [Presentation](documents/tfg/TFG_presentation.pdf)               | Presented to UAM panel in 06/2018 |
+| **Publication link**: | [UAM repository](https://repositorio.uam.es/handle/10486/688422) | University thesis repository|                 
 
 ### Artificial Intelligence Master Thesis - Accelerating of a Bacterial Metabolic Simulation using Neural Networks with Optimization Techniques
 
@@ -31,26 +31,26 @@ As my final thesis of Master in Artificial Intelligence in Universidad Politécn
 
 In this project it was explored different Neural Network architectures using Optimization Algorithms in order to implement a fast model to calculate bacterial metabolisms for a bacterial simulator GRO. 
 
-|                       |                                                                  |
-|-----------------------|------------------------------------------------------------------|
-| **Memory**:           | [Memory](documents/tfg/TFG_memory.pdf)                           |
-| **Presentation**:     | [Presentation](documents/tfg/TFG_presentation.pdf)               |
-| **Publication link**: | [UPM repository](https://oa.upm.es/56001/)                       |       
+| Document              | Link                                                             | Description |
+|-----------------------|------------------------------------------------------------------|-|
+| **Memory**:           | [Memory](documents/tfg/TFG_memory.pdf)                           | Presented in UPM in 08/2019 |
+| **Presentation**:     | [Presentation](documents/tfg/TFG_presentation.pdf)               | Presented to UPM panel in 08/2019 |
+| **Publication link**: | [UPM repository](https://oa.upm.es/56001/)                       | University thesis repository|     
 
 ## My Documents
 
 ### Current CV
 
-|                       |                                                                  |
-|-----------------------|------------------------------------------------------------------|
-| **Current CV**:       | [Javier Paris CV](documents/cv/CVJavierParis_English.pdf)        |
+| Document              | Link                                                             | Description |
+|-----------------------|------------------------------------------------------------------|-|
+| **Current CV**:       | [Javier Paris CV](documents/cv/CVJavierParis_English.pdf)        | Current CV |
 
 ### Old CVs
 
-|                       |                                                                  |
-|-----------------------|------------------------------------------------------------------|
-| **2021 CV**:          | [Javier Paris CV](documents/cv/CV_JParisU_2021.pdf)              |
-| **2020 CV**:          | [Javier Paris CV](documents/cv/CV_JParisU_2020.pdf)              |
+| Document              | Link                                                             | Description |
+|-----------------------|------------------------------------------------------------------|-|
+| **2021 CV**:          | [Javier Paris CV](documents/cv/CV_JParisU_2021.pdf)              | CV between 2020 and 2021 |
+| **2020 CV**:          | [Javier Paris CV](documents/cv/CV_JParisU_2020.pdf)              | CV after AI Master |
 
 <!-- Markdown Tips
 
