@@ -7,7 +7,10 @@
 3. [My Publicated Works](#publicated-section)
     1. [Grade Thesis](#tfg-section)
     1. [Masters Thesis](#tfm-section)
-4. [My Documents](#documents-section)
+4. [My Courses](#courses-section)
+    1. [Online Courses](#online-courses)
+    1. [Language Courses](#language-courses)
+5. [My Documents](#documents-section)
     1. [Current CV](#current-cv-section)
 
 ## About me <a id="about-me-section"></a>
@@ -18,6 +21,8 @@ With a Grade in IT and a Masters in AI, a long research career and high recognit
 I like every cutting edge field (i.e. AI, Quantum Computing, Bioinformatics) where I am free to innovate and solve new and daring problems.
 
 I would define myself as a really fast learner that has demonstrated to be valuable in very varied fields, and I would love to keep learning. Very friendly person, responsible, serious when required, but with a great sense of humor. I also like sports of any kind and I love healthy competition.
+
+**This page is still a work in progress, I will be uploading more information, details and formats soon.**
 
 ## My links <a id="link-section"></a>
 
@@ -55,6 +60,40 @@ In this project it was explored different Neural Network architectures using Opt
 | **Memory**:           | [Memory](documents/tfg/TFG_memory.pdf)                           | Presented in UPM in 08/2019 |
 | **Presentation**:     | [Presentation](documents/tfg/TFG_presentation.pdf)               | Presented to UPM panel in 08/2019 |
 | **Publication link**: | [UPM repository](https://oa.upm.es/56001/)                       | University thesis repository|     
+
+## My Courses <a id="courses-section"></a>
+
+In addition to my university studies, I have been training myself by attending to presencial or online courses, using learning apps, etc.
+These are some of the courses I have attended:
+
+### Online courses <a id="online-courses"></a>
+
+| Course title                  | Platform                                     | Certificate                                            |
+|-------------------------------|----------------------------------------------|--------------------------------------------------------|
+| **Big Data with PySpark**:    | [DataCamp](https://www.datacamp.com/)                                     | [Certificate](documents/courses/online/datacamp_pyspark.pdf)  |
+| **SQL Fundamentals**:         | [DataCamp](https://www.datacamp.com/)                                     | [Certificate](documents/courses/online/datacamp_sql.pdf)      |
+| **Blockchain A-Z**:           | [Udemy](https://www.udemy.com/course/build-your-blockchain-az/)           | [Certificate](documents/courses/online/blockchain.pdf)        |
+| **Technical Forex Analysis**: | [Udemy](https://www.udemy.com/course/video-curso-de-trading-analisis-tecnico-profesional/)           | [Certificate](documents/courses/online/forex.pdf)        |
+
+### Language courses <a id="language-courses"></a>
+
+| Course title | Level | Course description | Organization | Certificate | Date |
+|--------------|-------|--------------------|--------------|-------------|------|
+| **English**: | B2    | B2 exam            | Cambridge    | [Certificate](documents/courses/languages/b2.pdf) | 2017 |
+| | | | | | |
+| **French**:  | Basic level | One on One online classes with grammar, vocabulary, listening and speaking exercises | [ECSPlicite](https://ecsplicite.com/public/) | [Certificate](documents/courses/languages/ecsplicite.pdf) | 2020 |
+
+### LinkedIn badges <a id="linkedin-badges"></a>
+
+Even if they are not official exams, I am proud to notify that I have acquired the following technology badges in [LinkedIn](https://www.linkedin.com/in/javier-paris-uhryn):
+It could be seen as something simple, but I challenge you to try, they are not as naive as they seem.
+
+- Machine Learning
+- C++
+- Python
+- C
+- Linux
+- Git
 
 ## My Documents <a id="documents-section"></a>
 
